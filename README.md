@@ -1,6 +1,8 @@
 # voting-project-anceta-vs2019
 
-My voting project is here so everyone can download it and review - potential employer that is.
+My voting project Anceta is here so everyone can download it and review - potential employer that is.
+
+I zipped it because it github would not let me deploy it complaining of more than 100 files.
 
 All wedding couple's images have been deleted. All Packages inside project packages' folder have been deleted. I believe they should be automatically restored should you like to build the application
 
